@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelLogic.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelLogic.cs" Line="131" Column="1" />
+      <File FileName="Assets/Scripts/LevelLogic.cs" Line="131" Column="1" />
+      <File FileName="Assets/Scripts/LevelLogic.cs" Line="27" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="arcanoid" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13bd3752-1680-4d30-a517-884333d9b3bb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
